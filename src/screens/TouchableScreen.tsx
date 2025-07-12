@@ -7,7 +7,6 @@ import {
   TouchableOpacity,
   TouchableWithoutFeedback,
   View,
-  ViewBase,
 } from 'react-native';
 
 const TouchableScreen: React.FC = () => {

@@ -30,6 +30,21 @@ const topics = [
         title: "Pull To Refresh",
         screen: "PullToRefreshDemo"
     },
+    {
+        id: 5,
+        title: "Data Fetching Demo",
+        screen: "DataFetchingDemo"
+    },
+    {
+        id: 6,
+        title: "Axios Demo",
+        screen: "AxiosDemo"
+    },
+    {
+        id: 7,
+        title: "Theme Demo",
+        screen: "ThemeDemo"
+    },
 ]
 
 
